@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/todo_list_nav_item"
+        android:title="Todo List"
+        android:checked="false"
+        android:icon="@drawable/ic_baseline_list_alt"/>
+
+    <item
+        android:id="@+id/user_nav_item"
+        android:title="Inventory"
+        android:checked="false"
+        android:icon="@drawable/ic_baseline_user"/>
+
+    <item
+        android:id="@+id/home_nav_item"
+        android:title="Home"
+        android:checked="true"
+        android:icon="@drawable/ic_baseline_home"/>
+
+    <item
+        android:id="@+id/pets_nav_item"
+        android:title="Pets"
+        android:checked="false"
+        android:icon="@drawable/ic_baseline_pets"/>
+    <item
+        android:id="@+id/store_nav_item"
+        android:title="Shop"
+        android:checked="false"
+        android:icon="@drawable/ic_baseline_store"/>
+
+
+</menu>

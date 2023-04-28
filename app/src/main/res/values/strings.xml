@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">todoet prototype</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="someName">\"Hi\"</string>
+    <string name="taskName">default</string>
+    <string name="taskDifficulty">Easy</string>
+
+
+    <string name="save">Save</string>
+    <string name="new_task">New Task</string>
+    <string name="tasks">Tasks</string>
+    <string name="newTaskDate">Task Date</string>
+    <string name="store">Store</string>
+    <string name="forward">Forward</string>
+    <string name="back">Back</string>
+    <string name="Hunger">Hunger</string>
+    <string name="Hygiene">Hygiene</string>
+    <string name="Level">Level</string>
+    <string name="Happiness">Affection</string>
+
+
+</resources>
